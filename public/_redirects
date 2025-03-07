@@ -4,5 +4,6 @@
 /healthbridge/favicon.ico  https://healthbridgesolutions.netlify.app/favicon.ico 200
 /healthbridge/logo192.png  https://healthbridgesolutions.netlify.app/logo192.png 200
 /healthbridge/*  https://healthbridgesolutions.netlify.app/index.html  200
+/healthbridge/api/* https://healthbridge-solutions-sdp-tb2-g-production.up.railway.app/:splat 200
 /progressionfit  /index.html  200
 /*  /index.html  200
