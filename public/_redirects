@@ -1,1 +1,3 @@
 /* /index.html 200
+/healthbridge/* https://healthbridgesolutions.netlify.app/:splat 200
+/healthbridge/api/* https://api.balazskis.com/ 200
