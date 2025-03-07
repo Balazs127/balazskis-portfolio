@@ -1,3 +1,7 @@
-/healthbridge/*  https://healthbridgesolutions.netlify.app/:splat  200!
-/healthbridge/api/*  https://api.balazskis.com/:splat  200!
+/healthbridge/api/*  https://api.balazskis.com/:splat 200!
+/healthbridge/*  https://healthbridgesolutions.netlify.app/:splat 200!
+/healthbridge/static/*  https://healthbridgesolutions.netlify.app/static/:splat 200
+/healthbridge/manifest.json  https://healthbridgesolutions.netlify.app/manifest.json 200
+/healthbridge/favicon.ico  https://healthbridgesolutions.netlify.app/favicon.ico 200
+/healthbridge/logo192.png  https://healthbridgesolutions.netlify.app/logo192.png 200
 /*  /index.html  200
