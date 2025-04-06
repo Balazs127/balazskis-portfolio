@@ -4,11 +4,5 @@
 /healthbridge/logo192.png  https://healthbridgesolutions.netlify.app/logo192.png 200
 /healthbridge/api/* https://api.balazskis.com/api/:splat 200
 /healthbridge/* https://healthbridgesolutions.netlify.app/index.html 200
-/emoteglow/assets/*  https://emoteglow.netlify.app/assets/:splat 200
-/emoteglow/index-*.js  https://emoteglow.netlify.app/:splat 200
-/emoteglow/index-*.css  https://emoteglow.netlify.app/:splat 200
-/emoteglow  https://emoteglow.netlify.app/ 200
-/emoteglow/ https://emoteglow.netlify.app/ 200
-/emoteglow/*  https://emoteglow.netlify.app/:splat 200
 /progressionfit  /index.html  200
 /*  /index.html  200
