@@ -5,5 +5,4 @@
 /healthbridge/api/* https://api.balazskis.com/api/:splat 200
 /healthbridge/* https://healthbridgesolutions.netlify.app/index.html 200
 /progressionfit  /index.html  200
-/*    https://personalsitebk.netlify.app/:splat    200
-/*  /index.html  200
+/*    https://personalsitebk.netlify.app/:splat     200!
