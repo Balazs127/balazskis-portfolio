@@ -1,3 +1,10 @@
+[[redirects]]
+  from = "/healthbridge/api/*"
+  to = "https://healthbridge.balazskis.com/api/:splat"
+  status = 200
+  force = true
+  headers = {X-From = "Netlify"}
+
 [[headers]]
   for = "/*"
   [headers.values]
